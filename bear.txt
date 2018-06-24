@@ -1,1 +1,2 @@
 this is a bear file
+this is the second line for test
